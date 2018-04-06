@@ -1,31 +1,31 @@
 body {
- background-image:
-    url(https://images.pexels.com/photos/131634/pexels-photo-131634.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
+  background-image:
+  url(https://images.pexels.com/photos/131634/pexels-photo-131634.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb);
   background-size: cover;   
   text-align: center;  
   text-shadow: 3px 3px #99ffbb;
 }
 
 h1 {
-  font-family: calibri, sans-serif;
-  font-size: 80px;  
-  margin: 0.2em;
+    font-family: calibri, sans-serif;
+    font-size: 80px;  
+    margin: 0.2em;
 }
 
 h2 {
-  font-family: calibri, sans-serif;
-  font-size: 50px;  
-  margin: 1em 0 0.5em;  
+    font-family: calibri, sans-serif;
+    font-size: 50px;  
+    margin: 1em 0 0.5em;  
 }
 
 h2:first-of-type {
-  margin-top: 0.5em;  
+    margin-top: 0.5em;  
 }
 
 p {
-  font-family: sans-serif;
-  font-size:20px;
- text-shadow: 1px 0px; 
+    font-family: sans-serif;
+    font-size:20px;
+    text-shadow: 1px 0px; 
 }
  
 table, 
@@ -35,29 +35,31 @@ td {
  }
  
 table {
-  border-collapse: collapse;
-  margin: 0 auto;
+    border-collapse: collapse;
+    margin: 0 auto;
 }
 
-tr {
+tr 
+  {
   height:20px;
-}
+  }
 
 td {
   width:20px;  
-}
+  }
 
 input[type=number] {
   width: 6em;
-}
+  }
 
-input, button {
-  background-color: #ffffff;
-  border-radius: 8px;
-  color: #0a2d49;
-  cursor: pointer;
-  display: inline-block;
-  font-size: 14px;
-  padding: 2px 4px;
-  text-align: center;  
-}
+input, button 
+  {
+    background-color: #ffffff;
+    border-radius: 8px;
+    color: #0a2d49;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    padding: 2px 4px;
+    text-align: center;  
+  }
